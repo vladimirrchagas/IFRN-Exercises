@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.formulario {
+  border: 1px solid black;
+  display: inline-block;
+  width: 33%;
+  height: 400px;
+  margin-left: 2px;
+  vertical-align: top;
+  text-align: center;
+}
+
+.input, .textarea, .button {
+  display: block;
+  margin: auto;
+  margin-bottom: 15px;
+  border:1px solid black;
+}
+
+.input, .textarea {
+  width: 90%;
+  border-color: black;
+  border-radius: 5px;
+}
+
+.input {
+  height: 30px;
+}
+
+.textarea {
+  height: 200px;
+}
+
+.button {
+  width: 150px;
+  background-color: white;
+  border-color: black;
+  color: black;
+  padding: 5px;
+  border-radius: 25px;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
