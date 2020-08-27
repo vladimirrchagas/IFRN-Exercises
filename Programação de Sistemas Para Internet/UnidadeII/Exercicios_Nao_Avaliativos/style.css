@@ -7,7 +7,7 @@ body {
   border: 1px solid black;
   display: inline-block;
   width: 33%;
-  height: 400px;
+  height: 405px;
   margin-left: 2px;
   vertical-align: top;
   text-align: center;
@@ -31,7 +31,7 @@ body {
 }
 
 .textarea {
-  height: 200px;
+  height: 205px;
 }
 
 .button {
