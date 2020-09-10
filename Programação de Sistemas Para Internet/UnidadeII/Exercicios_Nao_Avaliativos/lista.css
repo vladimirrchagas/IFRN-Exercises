@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin:auto;
+    width: 300px;
+    padding: 20px;
+    background-color: rgb(17, 114, 194);
+}
+
+#list-item {
+    margin: auto;
+    margin-bottom: 10px;
+    width: 292px;
+    height: 30px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.buttons {
+    text-align: center;
+    margin: auto;
+}
+
+.button {
+    display: inline-block;
+    width: 72px;
+    text-align: center;
+    margin: auto;
+}
+
+.list {
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    padding: 0;
+}
+
+.list-items {
+    list-style-type: none;
+    text-align: left;
+}
